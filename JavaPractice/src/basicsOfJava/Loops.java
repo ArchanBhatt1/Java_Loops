@@ -2,7 +2,7 @@ package basicsOfJava;
 
 public class Loops{
 	
-	//Archan Bhatt
+	//various star loops
 	
 	public static void main(String[] args){
 		
