@@ -4,7 +4,7 @@ public class Loops{
 	
 	//various star loops for design patterns - part 1
 	//********************
-	//please trigger webhooks
+	//please trigger web-hooks so jenkins build trigger
 	
 	public static void main(String[] args){
 		
